@@ -1,0 +1,2 @@
+config.zip filter=lfs diff=lfs merge=lfs -text
+urban[[:space:]]scenes filter=lfs diff=lfs merge=lfs -text
