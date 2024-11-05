@@ -6,4 +6,4 @@ and https://drive.google.com/drive/folders/12yKk3rgBddCd6EEpzziIGa2x64nVzJZJ?usp
 
 the data_description contains detailed information about the dataset.
 
-If you would like the unzipped password for the dataset, please contact:<yuanxia@njust.edu.cn>
+the unzipped password for the dataset：NJUSTRobVisLab
